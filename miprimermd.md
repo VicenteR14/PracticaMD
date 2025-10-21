@@ -27,7 +27,7 @@ function saludo() {
 
 ### Imagen
 
-![Bandera de la Comunidad Valenciana](https://upload.wikimedia.org/wikipedia/commons/9/9e/Bandera_de_la_Comunidad_Valenciana.svg)
+![Bandera de la Comunidad Valenciana](/img.png)
 
 ### Tabla
 | Nombre    | Edad | Ciudad     |
