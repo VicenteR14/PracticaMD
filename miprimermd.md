@@ -27,7 +27,7 @@ function saludo() {
 
 ### Imagen
 
-[![Bandera de la Comunidad Valenciana](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_the_Valencian_Community_%282x3%29.svg/330px-Flag_of_the_Valencian_Community_%282x3%29.svg.png)
+![Bandera de la Comunidad Valenciana](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_the_Valencian_Community_%282x3%29.svg/330px-Flag_of_the_Valencian_Community_%282x3%29.svg.png)
 
 
 ### Tabla
