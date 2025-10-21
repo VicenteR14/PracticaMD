@@ -27,7 +27,7 @@ function saludo() {
 
 ### Imagen
 
-![Bandera](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FBandera_de_la_Comunidad_Valenciana&psig=AOvVaw2VaYuLrz9RL55qCCazlGLe&ust=1761127649430000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCznqGGtZADFQAAAAAdAAAAABAE)
+![Bandera de la Comunidad Valenciana](https://upload.wikimedia.org/wikipedia/commons/9/9e/Bandera_de_la_Comunidad_Valenciana.svg)
 
 ### Tabla
 | Nombre    | Edad | Ciudad     |
@@ -35,3 +35,4 @@ function saludo() {
 | Vicente   | 19  | Betxi       |
 | Pau       | 20  | Betxi       |
 | Sergio    | 21  | Betxi       |
+
